@@ -4,4 +4,4 @@
 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mehmettemizkan/)
 
-- 📫 How to reach me: [Medium](mhtemizkan.medium.com)
+- 📫 How to reach me: [Medium](https://mehmettemizkan.medium.com/)
