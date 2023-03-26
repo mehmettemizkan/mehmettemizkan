@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning React
 
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mhtemizkan/)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mehmettemizkan/)
 
 - 📫 How to reach me: [Medium](mhtemizkan.medium.com)
