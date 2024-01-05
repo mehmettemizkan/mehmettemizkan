@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🌱 I’m currently learning React and Laravel<br><br>- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mehmettemizkan/)<br><br>
+- 🌱 I’m currently learning React<br><br>- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mehmettemizkan/)<br><br>
 
 
 ## 🌐 Socials:
